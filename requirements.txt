@@ -1,0 +1,10 @@
+python-dotenv
+pydantic
+requests
+uvicorn
+fastapi
+fastapi-cors
+cryptography
+telethon
+openai
+pillow
